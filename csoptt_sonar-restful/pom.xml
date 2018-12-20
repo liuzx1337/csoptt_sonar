@@ -33,5 +33,10 @@
             <artifactId>csoptt_sonar-entity</artifactId>
             <version>1.0.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.csoptt</groupId>
+            <artifactId>csoptt_config-properties</artifactId>
+        </dependency>
     </dependencies>
 </project>

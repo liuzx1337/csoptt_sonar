@@ -37,7 +37,7 @@
         <java.version>1.8</java.version>
         <swagger.version>2.7.0</swagger.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
-        <csoptt_config.version>1.0.5</csoptt_config.version>
+        <csoptt_config.version>1.0.6</csoptt_config.version>
     </properties>
 
     <dependencyManagement>

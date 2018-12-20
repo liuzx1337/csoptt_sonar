@@ -1,4 +1,4 @@
-package com.csoptt.entity;
+package com.csoptt.vo.response;
 
 /**
  * Sonar度量标准
@@ -6,7 +6,7 @@ package com.csoptt.entity;
  * @author liuzixi
  * @date 2018-12-20
  */
-public class SonarMetric {
+public class SonarMetricVO {
 
     /**
      * 标准的key，用于api获取相关数值

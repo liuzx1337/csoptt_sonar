@@ -40,11 +40,6 @@
 
 		<dependency>
 			<groupId>com.csoptt</groupId>
-			<artifactId>csoptt_config-properties</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>com.csoptt</groupId>
 			<artifactId>csoptt_sonar-restful</artifactId>
 			<version>1.0.0</version>
 		</dependency>

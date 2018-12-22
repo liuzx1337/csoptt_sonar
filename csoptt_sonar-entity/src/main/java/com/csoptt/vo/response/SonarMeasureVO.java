@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Sonar单项目扫描结果展示
  *
- * @author liuzixi
+ * @author qishao
  * @date 2018-12-20
  */
 public class SonarMeasureVO {

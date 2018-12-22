@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * Sonar模块Service
  *
- * @author liuzixi
+ * @author qishao
  * @date 2018-12-20
  */
 @Service
@@ -48,7 +48,7 @@ public class SonarService {
     /**
      * 查询常见指标字段
      * @return
-     * @author liuzixi
+     * @author qishao
      * date 2018-12-20
      */
     public List<SonarMetricVO> metricList() {
@@ -63,7 +63,7 @@ public class SonarService {
      *
      * @param sonarMeasureReqVO
      * @return
-     * @author liuzixi
+     * @author qishao
      * date 2018-12-20
      */
     public SonarMeasureVO querySonarMeasure(SonarMeasureReqVO sonarMeasureReqVO) {
@@ -111,7 +111,7 @@ public class SonarService {
     /**
      * 获取sonar链接
      * @return
-     * @author liuzixi
+     * @author qishao
      * date 2018-12-20
      */
     private String getSonarUrl() {

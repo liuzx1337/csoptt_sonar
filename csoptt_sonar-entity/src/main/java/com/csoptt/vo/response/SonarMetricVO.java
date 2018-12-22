@@ -3,7 +3,7 @@ package com.csoptt.vo.response;
 /**
  * Sonar度量标准
  *
- * @author liuzixi
+ * @author qishao
  * @date 2018-12-20
  */
 public class SonarMetricVO {

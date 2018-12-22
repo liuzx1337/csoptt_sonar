@@ -3,7 +3,7 @@ package com.csoptt.entity;
 /**
  * 度量标准键值对
  *
- * @author liuzixi
+ * @author qishao
  * @date 2018-12-20
  */
 public class Metric {

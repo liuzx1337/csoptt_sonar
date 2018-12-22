@@ -39,7 +39,7 @@ public class SonarController extends BaseController {
     /**
      * |Sonar模块|查询常见指标字段
      * @return 
-     * @author liuzixi
+     * @author qishao
      * date 2018-12-20
      */
     @GetMapping("/metricList")
@@ -59,7 +59,7 @@ public class SonarController extends BaseController {
      * |Sonar模块|查询某一项目的Sonar扫描结果
      * @param sonarMeasureReqVO
      * @return
-     * @author liuzixi
+     * @author qishao
      * date 2018-12-20
      */
     @PostMapping("/sonarMeasure/query")

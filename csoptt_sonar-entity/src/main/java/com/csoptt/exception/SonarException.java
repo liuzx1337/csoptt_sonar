@@ -5,7 +5,7 @@ import com.csoptt.utils.exception.BaseException;
 /**
  * Sonar模块异常类
  *
- * @author liuzixi
+ * @author qishao
  * @date 2018-12-20
  */
 public class SonarException extends BaseException {
